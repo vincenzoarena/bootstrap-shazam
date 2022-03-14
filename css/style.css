@@ -13,3 +13,9 @@
 .shazam-link-size{
     width: 45%;
 }
+.main-bg{
+    background: linear-gradient(#00b1ff, #3e64fd);
+}
+.footer-bg{
+    background-color: #141414;
+}
