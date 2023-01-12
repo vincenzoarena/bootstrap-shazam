@@ -23,7 +23,7 @@ No functionalities on this SHAZAM's clone made with Bootstrap
 - [ ] _JavaScript_
 - [ ] _React_
 - [x] _Bootstrap_
-- [x] _npm_
+- [ ] _npm_
 - [ ] _..._
 
 ---
