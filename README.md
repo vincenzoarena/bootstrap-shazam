@@ -4,7 +4,7 @@
 
 ---
 
-![Screenshot from Project](./images/project.png)
+![Screenshot from Project](./img/bootstrap-shazam.png)
 
 ### About Project
 
